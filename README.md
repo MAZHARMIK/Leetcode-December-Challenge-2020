@@ -16,5 +16,10 @@ Link to the contest : <a href="https://leetcode.com/explore/featured/card/decemb
         <td><a href="https://github.com/MAZHARMIK/Leetcode-December-Challenge-2020/blob/main/Maximum%20Depth%20of%20Binary%20Tree"><img src="https://www.cdn.geeksforgeeks.org/wp-content/uploads/xdfcg.png" width="400" height="240"></a>
 			  </td>
 			</tr>
+			<tr>
+			  <td>Shortest Word Distance</td>
+        <td><a href="https://github.com/MAZHARMIK/Leetcode-December-Challenge-2020/blob/main/Shortest%20Word%20Distance"><img src="https://audiophilereview.com/images/ShortestDistanceLargeFormat.jpg" width="400" height="240"></a>
+			  </td>
+			</tr>
 		</tbody>
 </table>
