@@ -1,0 +1,33 @@
+/*
+    Leetcode Link     : It's a locked question on leetcode. So, I am providing here the question as well.
+    Leetcode Link     : https://leetcode.com/problems/shortest-word-distance/
+    Problem statement : Given a list of words and two words word1 and word2, return the shortest distance between these two words in the list.
+                        You may assume that word1 does not equal to word2, and word1 and word2 are both in the list.
+    Example           :
+                        Input：["practice", "makes", "perfect", "coding", "makes"],"coding","practice"
+                        Output：3
+                        Explanation：index("coding") - index("practice") = 3
+*/
+
+class Solution {
+public:
+    int shortestDistance(vector<string> &words, string &word1, string &word2) {
+        int n      = words.size();
+        int posA   = -1;
+        int posB   = -1;
+        int shortD = INT_MAX;
+        
+        for(int i = 0; i<n; i++) {
+            if(words[i] == word1) {
+                posA = i;
+            } else if(words[i] == word2) {
+                posB = i;
+            }
+            
+            if(posA != -1 && posB != -1) {
+                shortD = min(shortD, abs(posA-posB));
+            }
+        }
+        return shortD;
+    }
+};
