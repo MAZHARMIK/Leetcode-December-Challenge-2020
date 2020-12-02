@@ -21,5 +21,10 @@ Link to the contest : <a href="https://leetcode.com/explore/featured/card/decemb
         <td><a href="https://github.com/MAZHARMIK/Leetcode-December-Challenge-2020/blob/main/Shortest%20Word%20Distance"><img src="https://audiophilereview.com/images/ShortestDistanceLargeFormat.jpg" width="400" height="240"></a>
 			  </td>
 			</tr>
+			<tr>
+			  <td>Linked List Random Node</td>
+        <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Mathematical/Linked%20List%20Random%20Node%20(2%20approaches)"><img src="https://miro.medium.com/max/1200/1*fezNeRrbaOgSt0wIWQCiUA.png" width="400" height="240"></a>
+			  </td>
+			</tr>
 		</tbody>
 </table>
