@@ -26,5 +26,10 @@ Link to the contest : <a href="https://leetcode.com/explore/featured/card/decemb
         <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Mathematical/Linked%20List%20Random%20Node%20(2%20approaches)"><img src="https://miro.medium.com/max/1200/1*fezNeRrbaOgSt0wIWQCiUA.png" width="400" height="240"></a>
 			  </td>
 			</tr>
+			<tr>
+			  <td>Increasing Order Search Tree</td>
+        <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Tree/Increasing%20Order%20Search%20Tree"><img src="https://qph.fs.quoracdn.net/main-qimg-5fc30a317ea95ca1f3500c321fbdfb01" width="400" height="240"></a>
+			  </td>
+			</tr>
 		</tbody>
 </table>
