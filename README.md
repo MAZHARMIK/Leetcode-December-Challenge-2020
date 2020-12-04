@@ -31,5 +31,10 @@ Link to the contest : <a href="https://leetcode.com/explore/featured/card/decemb
         <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Tree/Increasing%20Order%20Search%20Tree"><img src="https://qph.fs.quoracdn.net/main-qimg-5fc30a317ea95ca1f3500c321fbdfb01" width="400" height="240"></a>
 			  </td>
 			</tr>
+			<tr>
+			  <td>The kth Factor of n</td>
+        <td><a href="https://github.com/MAZHARMIK/Leetcode-December-Challenge-2020/blob/main/The%20kth%20Factor%20of%20n"><img src="https://i.ytimg.com/vi/Zaj8eSArxOk/maxresdefault.jpg" width="400" height="240"></a>
+			  </td>
+			</tr>
 		</tbody>
 </table>
