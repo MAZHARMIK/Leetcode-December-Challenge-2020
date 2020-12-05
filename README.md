@@ -36,5 +36,10 @@ Link to the contest : <a href="https://leetcode.com/explore/featured/card/decemb
         <td><a href="https://github.com/MAZHARMIK/Leetcode-December-Challenge-2020/blob/main/The%20kth%20Factor%20of%20n"><img src="https://i.ytimg.com/vi/Zaj8eSArxOk/maxresdefault.jpg" width="400" height="240"></a>
 			  </td>
 			</tr>
+			<tr>
+			  <td>Can Place Flowers</td>
+        <td><a href="https://github.com/MAZHARMIK/Leetcode-December-Challenge-2020/blob/main/Can%20Place%20Flowers"><img src="https://thumbs.dreamstime.com/z/boy-girl-water-plant-18520334.jpg" width="400" height="240"></a>
+			  </td>
+			</tr>
 		</tbody>
 </table>
