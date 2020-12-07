@@ -46,5 +46,10 @@ Link to the contest : <a href="https://leetcode.com/explore/featured/card/decemb
         <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Tree/Populating%20Next%20Right%20Pointers%20in%20Each%20Node%20II"><img src="https://3.bp.blogspot.com/-3S6urcpaRTg/VdYF30UUsRI/AAAAAAAAAO0/R9k-plivc8s/s1600/ConnectNodesAtSameLevelWithoutSpace.png" width="400" height="240"></a>
 			  </td>
 			</tr>
+			<tr>
+			  <td>Spiral Matrix II</td>
+        <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Arrays/Spiral%20Matrix%20II"><img src="https://windliang.oss-cn-beijing.aliyuncs.com/54_2.jpg" width="400" height="240"></a>
+			  </td>
+			</tr>
 		</tbody>
 </table>
