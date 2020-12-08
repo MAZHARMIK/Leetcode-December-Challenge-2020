@@ -51,5 +51,10 @@ Link to the contest : <a href="https://leetcode.com/explore/featured/card/decemb
         <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Arrays/Spiral%20Matrix%20II"><img src="https://windliang.oss-cn-beijing.aliyuncs.com/54_2.jpg" width="400" height="240"></a>
 			  </td>
 			</tr>
+			<tr>
+			  <td>Pairs of Songs With Total Durations Divisible by 60</td>
+        <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Arrays/Pairs%20of%20Songs%20With%20Total%20Durations%20Divisible%20by%2060"><img src="https://pixfeeds.com/images/31/603109/1280-modulo.png" width="400" height="240"></a>
+			  </td>
+			</tr>
 		</tbody>
 </table>
