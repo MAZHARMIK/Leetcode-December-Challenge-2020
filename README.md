@@ -61,5 +61,10 @@ Link to the contest : <a href="https://leetcode.com/explore/featured/card/decemb
         <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Tree/Binary%20Search%20Tree%20Iterator"><img src="https://algorithms.tutorialhorizon.com/files/2015/12/Tree-Traversals-Inorder.png" width="400" height="240"></a>
 			  </td>
 			</tr>
+			<tr>
+			  <td>Valid Mountain Array</td>
+        <td><a href="https://github.com/MAZHARMIK/Leetcode-December-Challenge-2020/blob/main/Valid%20Mountain%20Array"><img src="https://docs.microsoft.com/it-it/windows/win32/direct2d/images/path-geo-mnts.png" width="400" height="240"></a>
+			  </td>
+			</tr>
 		</tbody>
 </table>
