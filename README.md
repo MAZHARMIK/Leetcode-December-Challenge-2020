@@ -56,5 +56,10 @@ Link to the contest : <a href="https://leetcode.com/explore/featured/card/decemb
         <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Arrays/Pairs%20of%20Songs%20With%20Total%20Durations%20Divisible%20by%2060"><img src="https://pixfeeds.com/images/31/603109/1280-modulo.png" width="400" height="240"></a>
 			  </td>
 			</tr>
+			<tr>
+			  <td>Binary Search Tree Iterator</td>
+        <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Tree/Binary%20Search%20Tree%20Iterator"><img src="https://algorithms.tutorialhorizon.com/files/2015/12/Tree-Traversals-Inorder.png" width="400" height="240"></a>
+			  </td>
+			</tr>
 		</tbody>
 </table>
