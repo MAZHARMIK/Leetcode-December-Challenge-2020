@@ -66,5 +66,10 @@ Link to the contest : <a href="https://leetcode.com/explore/featured/card/decemb
         <td><a href="https://github.com/MAZHARMIK/Leetcode-December-Challenge-2020/blob/main/Valid%20Mountain%20Array"><img src="https://docs.microsoft.com/it-it/windows/win32/direct2d/images/path-geo-mnts.png" width="400" height="240"></a>
 			  </td>
 			</tr>
+			<tr>
+			  <td>Remove Duplicates from Sorted Array II</td>
+        <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Arrays/Two%20Pointer/Remove%20Duplicates%20from%20Sorted%20Array%20II"><img src="https://www.contentmx.com/website2/wp-content/uploads/2014/12/Fotolia_45275928_Subscription_Monthly_M.jpg" width="400" height="240"></a>
+			  </td>
+			</tr>
 		</tbody>
 </table>
