@@ -71,5 +71,10 @@ Link to the contest : <a href="https://leetcode.com/explore/featured/card/decemb
         <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Arrays/Two%20Pointer/Remove%20Duplicates%20from%20Sorted%20Array%20II"><img src="https://www.contentmx.com/website2/wp-content/uploads/2014/12/Fotolia_45275928_Subscription_Monthly_M.jpg" width="400" height="240"></a>
 			  </td>
 			</tr>
+			<tr>
+			  <td>Smallest Subtree with all the Deepest Nodes</td>
+        <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Tree/Lowest%20Common%20Ancestor%20of%20Deepest%20Leaves"><img src="https://clipground.com/images/ancestor-clipart-2.jpg" width="400" height="240"></a>
+			  </td>
+			</tr>
 		</tbody>
 </table>
