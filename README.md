@@ -81,5 +81,10 @@ Link to the contest : <a href="https://leetcode.com/explore/featured/card/decemb
         <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/DP/Burst%20Balloons"><img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/d8a58800-7eea-49d8-8c61-ad13a1c8b8f4/d83sbpz-b4bfa358-3892-421c-ab9a-7e67c7d69437.jpg/v1/fill/w_1024,h_708,q_75,strp/burst_my_balloon_by_voodoohammer-d83sbpz.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwic3ViIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl0sIm9iaiI6W1t7InBhdGgiOiIvZi9kOGE1ODgwMC03ZWVhLTQ5ZDgtOGM2MS1hZDEzYTFjOGI4ZjQvZDgzc2Jwei1iNGJmYTM1OC0zODkyLTQyMWMtYWI5YS03ZTY3YzdkNjk0MzcuanBnIiwid2lkdGgiOiI8PTEwMjQiLCJoZWlnaHQiOiI8PTcwOCJ9XV19.L2yrzDtddEb5RRslYbDq4VJLnzumtSN7t_qvNggWuzQ" width="400" height="240"></a>
 			  </td>
 			</tr>
+			<tr>
+			  <td>Palindrome Partitioning</td>
+        <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/DP/Palindrome%20Partitioning"><img src="https://faculty.up.edu/ainan/PalindromeDay2102012.JPG" width="400" height="240"></a>
+			  </td>
+			</tr>
 		</tbody>
 </table>
