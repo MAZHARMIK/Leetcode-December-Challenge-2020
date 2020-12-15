@@ -87,6 +87,11 @@ Link to the contest : <a href="https://leetcode.com/explore/featured/card/decemb
 			  </td>
 			</tr>
 			<tr>
+			  <td>Plus One Linked List</td>
+        <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Linked%20List/Plus%20One%20Linked%20List"><img src="https://catholic.duke.edu/wp-content/uploads/2014/01/Plus-One-V2.png" width="400" height="240"></a>
+			  </td>
+			</tr>
+			<tr>
 			  <td>Squares of a Sorted Array</td>
         <td><a href="https://github.com/MAZHARMIK/Leetcode-December-Challenge-2020/blob/main/Squares%20of%20a%20Sorted%20Array"><img src="https://i.ytimg.com/vi/PN68qx-Qkdw/maxresdefault.jpg" width="400" height="240"></a>
 			  </td>
