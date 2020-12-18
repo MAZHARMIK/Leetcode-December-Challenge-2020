@@ -101,5 +101,10 @@ Link to the contest : <a href="https://leetcode.com/explore/featured/card/decemb
         <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Tree/Validate%20Binary%20Search%20Tree"><img src="https://qph.fs.quoracdn.net/main-qimg-5fc30a317ea95ca1f3500c321fbdfb01" width="400" height="240"></a>
 			  </td>
 			</tr>
+			<tr>
+			  <td>4Sum II</td>
+        <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Arrays/4Sum%20II"><img src="https://media.sciencephoto.com/image/p9000080/800wm/P9000080-Quadruplets.jpg" width="400" height="240"></a>
+			  </td>
+			</tr>
 		</tbody>
 </table>
