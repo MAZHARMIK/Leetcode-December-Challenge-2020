@@ -106,5 +106,10 @@ Link to the contest : <a href="https://leetcode.com/explore/featured/card/decemb
         <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Arrays/4Sum%20II"><img src="https://media.sciencephoto.com/image/p9000080/800wm/P9000080-Quadruplets.jpg" width="400" height="240"></a>
 			  </td>
 			</tr>
+			<tr>
+			  <td>Increasing Triplet Subsequence</td>
+        <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/DP/Increasing%20Triplet%20Subsequence"><img src="https://www.programcreek.com/wp-content/uploads/2015/02/Increasing-Triplet-Subsequence.png" width="400" height="240"></a>
+			  </td>
+			</tr>
 		</tbody>
 </table>
