@@ -111,5 +111,10 @@ Link to the contest : <a href="https://leetcode.com/explore/featured/card/decemb
         <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/DP/Increasing%20Triplet%20Subsequence"><img src="https://www.programcreek.com/wp-content/uploads/2015/02/Increasing-Triplet-Subsequence.png" width="400" height="240"></a>
 			  </td>
 			</tr>
+			<tr>
+			  <td>Cherry Pickup II</td>
+        <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/DP/Cherry%20Pickup%20II"><img src="https://img.medscape.com/thumbnail_library/dt_170111_cherry_picking_800x600.jpg" width="400" height="240"></a>
+			  </td>
+			</tr>
 		</tbody>
 </table>
