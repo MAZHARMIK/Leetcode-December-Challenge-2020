@@ -116,5 +116,10 @@ Link to the contest : <a href="https://leetcode.com/explore/featured/card/decemb
         <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/DP/Cherry%20Pickup%20II"><img src="https://img.medscape.com/thumbnail_library/dt_170111_cherry_picking_800x600.jpg" width="400" height="240"></a>
 			  </td>
 			</tr>
+			<tr>
+			  <td>Decoded String at Index</td>
+        <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/strings/Decoded%20String%20at%20Index"><img src="https://is4-ssl.mzstatic.com/image/thumb/Music71/v4/df/aa/e4/dfaae4a4-d8ae-d290-dd8f-173911f36ae4/source/1200x630bb.jpg" width="400" height="240"></a>
+			  </td>
+			</tr>
 		</tbody>
 </table>
