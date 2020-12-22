@@ -121,5 +121,10 @@ Link to the contest : <a href="https://leetcode.com/explore/featured/card/decemb
         <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/strings/Decoded%20String%20at%20Index"><img src="https://is4-ssl.mzstatic.com/image/thumb/Music71/v4/df/aa/e4/dfaae4a4-d8ae-d290-dd8f-173911f36ae4/source/1200x630bb.jpg" width="400" height="240"></a>
 			  </td>
 			</tr>
+			<tr>
+			  <td>Smallest Range II</td>
+        <td><a href="https://github.com/MAZHARMIK/Leetcode-December-Challenge-2020/blob/main/Smallest%20Range%20II"><img src="https://i0.wp.com/coderinme.com/wp-content/uploads/2017/07/min.max_-e1408146361621.png?fit=400%2C400&ssl=1" width="400" height="240"></a>
+			  </td>
+			</tr>
 		</tbody>
 </table>
