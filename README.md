@@ -131,5 +131,10 @@ Link to the contest : <a href="https://leetcode.com/explore/featured/card/decemb
         <td><a href="https://github.com/MAZHARMIK/Leetcode-December-Challenge-2020/blob/main/Balanced%20Binary%20Tree"><img src="https://helloacm.com/wp-content/uploads/2016/04/balanced-tree-or-not.png" width="400" height="240"></a>
 			  </td>
 			</tr>
+			<tr>
+			  <td>Balanced Binary Tree</td>
+        <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/strings/Next%20Greater%20Element%20III"><img src="https://dsagreatercharlotte.org/wp-content/uploads/2020/02/Whats-Next-599x400.png" width="400" height="240"></a>
+			  </td>
+			</tr>
 		</tbody>
 </table>
