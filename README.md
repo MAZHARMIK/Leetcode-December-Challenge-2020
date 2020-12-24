@@ -136,5 +136,10 @@ Link to the contest : <a href="https://leetcode.com/explore/featured/card/decemb
         <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/strings/Next%20Greater%20Element%20III"><img src="https://dsagreatercharlotte.org/wp-content/uploads/2020/02/Whats-Next-599x400.png" width="400" height="240"></a>
 			  </td>
 			</tr>
+			<tr>
+			  <td>Swap Nodes in Pairs</td>
+        <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Linked%20List/Swap%20Nodes%20in%20Pairs"><img src="https://fuk.io/wp-content/uploads/2019/07/swap-this-token-for-that-coin.jpg" width="400" height="240"></a>
+			  </td>
+			</tr>
 		</tbody>
 </table>
