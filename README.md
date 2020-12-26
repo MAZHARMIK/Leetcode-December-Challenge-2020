@@ -141,5 +141,10 @@ Link to the contest : <a href="https://leetcode.com/explore/featured/card/decemb
         <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Linked%20List/Swap%20Nodes%20in%20Pairs"><img src="https://fuk.io/wp-content/uploads/2019/07/swap-this-token-for-that-coin.jpg" width="400" height="240"></a>
 			  </td>
 			</tr>
+			<tr>
+			  <td>Diagonal Traverse</td>
+        <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Arrays/2-D%20Array/Diagonal%20Traverse"><img src="https://leetcode.com/problems/diagonal-traverse/Figures/498/img1.png" width="400" height="240"></a>
+			  </td>
+			</tr>
 		</tbody>
 </table>
