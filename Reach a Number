@@ -1,0 +1,20 @@
+class Solution {
+public:
+    int reachNumber(int target) {
+        int sum = 0, step = 0;
+        target = abs(target);
+        while(sum < target) {
+            step++;
+            sum += step;
+        }
+        
+        if(sum == target)
+            return step;
+        
+        int diff = target-sum;
+        if(diff%2 == 0)
+            return step;
+        
+        return step%2==0?step+1:step+2;
+    }
+};
