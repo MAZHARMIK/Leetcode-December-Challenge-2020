@@ -156,5 +156,10 @@ Link to the contest : <a href="https://leetcode.com/explore/featured/card/decemb
         <td><a href="https://github.com/MAZHARMIK/Leetcode-December-Challenge-2020/blob/main/Reach%20a%20Number"><img src="https://image.freepik.com/free-vector/businessman-reach-out-stars_24381-556.jpg" width="400" height="240"></a>
 			  </td>
 			</tr>
+			<tr>
+			  <td>Pseudo-Palindromic Paths in a Binary Tree</td>
+        <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Tree/Pseudo-Palindromic%20Paths%20in%20a%20Binary%20Tree"><img src="https://images.squarespace-cdn.com/content/50f81721e4b0a63b10745c06/1392212694282-PSSNZTBA99C4OQENCDY8/Palindrome+1+lowres.jpg?content-type=image%2Fjpeg" width="400" height="240"></a>
+			  </td>
+			</tr>
 		</tbody>
 </table>
