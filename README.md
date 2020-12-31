@@ -166,5 +166,10 @@ Link to the contest : <a href="https://leetcode.com/explore/featured/card/decemb
         <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Arrays/2-D%20Array/Game%20of%20Life"><img src="https://4.bp.blogspot.com/-VTC4Q039Nlg/WkhHtLcT5qI/AAAAAAAAPNc/MK3mEEbNSfIl7s5yEQprZYc7OiboH6o-QCLcBGAs/s1600/The%2BGame%2Bof%2BLife.png" width="400" height="240"></a>
 			  </td>
 			</tr>
+			<tr>
+			  <td>Largest Rectangle in Histogram</td>
+        <td><a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Stack/Largest%20Rectangle%20in%20Histogram"><img src="https://thumbs.dreamstime.com/b/teacher-pointing-to-histogram-11416997.jpg" width="400" height="240"></a>
+			  </td>
+			</tr>
 		</tbody>
 </table>
